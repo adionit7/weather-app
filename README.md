@@ -22,9 +22,3 @@ In this project, I'll walk you through building a Python weather app, containeri
 - **Google Cloud Build:** 🛠️
 - **OpenWeather API:** 🌦️
 
-## Resources
-
-Feel free to dive in, explore the code, and follow along with the blog for a comprehensive understanding of deploying a live weather app on Google Cloud using DevOps practices!
-
-Please refer below youtube video to deploy this weather-app on Google Cloud Run.
-https://youtu.be/jyuz0vfrFps
